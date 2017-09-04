@@ -1,4 +1,4 @@
-{
+﻿{
 	"file" : "index.html",
 	"general" : 
 	{
@@ -14,7 +14,7 @@
 		}
 	},
 	"preview" : "preview.jpg",
-	"title" : "Silk – Interactive Generative Art",
+	"title" : "画出你色彩",
 	"type" : "web",
 	"visibility" : "public"
 }
